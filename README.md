@@ -1,4 +1,5 @@
 # SimpleGame
+
 This game was created for educational and practical purposes.
 The main goal was to study and learn the language Python, as well as its features.
 
@@ -13,5 +14,6 @@ The main goal was to study and learn the language Python, as well as its feature
 ## Instalation
 
 - To download game you should click [https://drive.google.com/file/d/1vtZx7aq_CmSSqIk6Sh3wFOtevD_0duNc/view?usp=sharing].
- 
-For beginners it is copletely useful to research if you have interest about games. 
+
+For beginners it is copletely useful to research if you have interest about games.
+Enjoy your free time by playing games and coding as well.
