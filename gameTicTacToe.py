@@ -241,6 +241,8 @@ class TicTacToe(tkinter.Canvas):
 window = tkinter.Tk()
 window.title('Game TicTacToe')
 window.resizable(False, False)
+photo = tkinter.PhotoImage(file = r"C:\Users\Назар\Downloads\icons8-python-64.png")
+window.iconphoto(False, photo)
 
 
 game = TicTacToe(window)
