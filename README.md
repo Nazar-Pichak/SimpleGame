@@ -13,7 +13,7 @@ The main goal was to study and learn the language Python, as well as its feature
 
 ## Instalation
 
-- To download game you should click [https://drive.google.com/file/d/1vHtqCJQYosnJFT2bTP5DBoXE9KR9gDDV/view?usp=sharing].
+- To download game you should click https://drive.google.com/file/d/1vHtqCJQYosnJFT2bTP5DBoXE9KR9gDDV/view?usp=sharing.
 
 For beginners it is copletely useful to research if you have interest about games.
 Enjoy your free time by playing games and coding as well.
