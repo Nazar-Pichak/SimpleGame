@@ -1,6 +1,6 @@
 # SimpleGame
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://python.org)
 
 This game was created for educational and practical purposes.
 The main goal was to study and learn the language Python, as well as its features.
