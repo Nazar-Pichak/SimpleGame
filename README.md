@@ -1,4 +1,5 @@
 # SimpleGame
+[![Build status](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&)
 
 This game was created for educational and practical purposes.
 The main goal was to study and learn the language Python, as well as its features.
