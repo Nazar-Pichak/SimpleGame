@@ -14,6 +14,7 @@ Useful link for beginners is an [online course](https://letpy.com/) to start lea
 ## Online playing
 - You can also try to [play it online](https://apps.letpy.com/game_TicTacToe) and look how it works. 
 ## Installation
+-To install this game you have to...
 
 For beginners it is copletely useful to research if you have interest about games.
 Enjoy your free time by playing games and coding as well.
