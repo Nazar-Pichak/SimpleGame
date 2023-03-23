@@ -7,7 +7,8 @@ The main goal was to study and learn the language Python, as well as its feature
 Useful link for beginners is an [online course](https://letpy.com/) to start learn this language.
 
 ## Features
-- So far it can works only on Windows system. 
+- So far it can works only on Windows system.
+- The ```output``` folder contains recompiled .py file into .exe file. 
 - The basis of the project is .exe file extension.
 - The most important thing it is converting python-file into executable-file with a library 'auto-py-to-exe' from [PyPi](https://pypi.org/).
 ## Online playing
