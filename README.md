@@ -13,7 +13,7 @@ Useful link for beginners is an [online course](https://letpy.com/) to start lea
 - The most important thing it is converting python-file into executable-file with a library ```auto-py-to-exe``` from [PyPi](https://pypi.org/).
 ## Online playing
 - You can also try to [play it online](https://apps.letpy.com/game_TicTacToe) and look how it works. 
-## Instalation
+## Installation
 
 For beginners it is copletely useful to research if you have interest about games.
 Enjoy your free time by playing games and coding as well.
