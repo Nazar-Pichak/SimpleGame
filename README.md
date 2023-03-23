@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 
-This game was created for educational and practical purposes.
+This game was created for educational and practical purposes, especially for exploring [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming).
 The main goal was to study and learn the language Python, as well as its features.
 Useful link for beginners is an [online course](https://letpy.com/) to start learn this language.
 
