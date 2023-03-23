@@ -10,7 +10,7 @@ Useful link for beginners is an [online course](https://letpy.com/) to start lea
 - So far it can works only on Windows system.
 - The ```output``` folder contains recompiled .py file into .exe file. 
 - The basis of the project is .exe file extension.
-- The most important thing it is converting python-file into executable-file with a library 'auto-py-to-exe' from [PyPi](https://pypi.org/).
+- The most important thing it is converting python-file into executable-file with a library ```auto-py-to-exe``` from [PyPi](https://pypi.org/).
 ## Online playing
 - You can also try to [play it online](https://apps.letpy.com/game_TicTacToe) and look how it works. 
 ## Instalation
